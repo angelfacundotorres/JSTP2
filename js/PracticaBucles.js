@@ -288,9 +288,17 @@
 //    13)
 
 // let texto = prompt('Ingresa un texto');
-// console.log(toUpperCase())
-// texto = texto.toUpperCase()
-// document.write(texto)
-var result = 20;
-result = result * 5; 
-console.log(result)
+// document.write(texto.toUpperCase())
+
+//   14)
+
+// let texto = prompt('Ingresa un texto');
+// for (let i = 0; i < texto.length; i++) {
+//   let caracter = texto.charAt(i);
+//   if (i == texto.length - 1) {
+//     document.write(caracter);
+//   } else {
+//     document.write(caracter + '-');
+//   }  
+// }
+
